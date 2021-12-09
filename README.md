@@ -11,3 +11,7 @@ scipy	1.7.1	1.7.2
 setuptools	57.0.0	58.5.3
 six	1.16.0	1.16.0
 wheel	0.36.2	0.37.0
+
+os
+re
+itertools
